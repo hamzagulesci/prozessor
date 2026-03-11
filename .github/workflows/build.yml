@@ -2,7 +2,7 @@ name: APK Derle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:  # Elle de tetiklenebilir
 
 jobs:
